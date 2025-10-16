@@ -3,7 +3,8 @@
  Play against AI or watch AI vs AI matches with a PyQt5 interface.
 ## Demo
 
-![Chess with Ollama Demo](2025-10-16 19-14-31_edited.gif)
+![Chess with Ollama Demo](2025-10-16-19-14-31_edited.gif)
+
 
 ## Features
 
